@@ -1,68 +1,38 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Mengembangkan fitur promosi untuk Desa Alamendah menggunakan Laravel, Livewire, JavaScript, dan Google Apps Script, dengan fitur utama: <br />
+•	Manajemen Berita: Memungkinkan admin untuk membuat, menghapus, dan menampilkan berita, serta pengguna untuk melihat berita terbaru. <br />
+**Menambahkan berita** <br />
+<img src="https://github.com/user-attachments/assets/41e1fa3b-5ce3-4e46-8866-b46cf87c7bdc" /> <br />
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Dashboard Admin** <br />
+<img src="https://github.com/user-attachments/assets/f99c0de4-ce5d-47db-b4e0-31fa3c121297" /> <br />
 
-## About Laravel
+**Detail berita** <br />
+<img src="https://github.com/user-attachments/assets/f98cbc54-cd02-47b9-af4b-c72393c28e5d" /> <br />
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+**Berita pada beranda pengguna** <br />
+<img src="https://github.com/user-attachments/assets/093f9d7c-f04d-48a2-a579-bfbf4e01c9c6" /> <br />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+•	Paket Travelling: Menyediakan daftar paket perjalanan yang dapat ditambahkan, diedit, dan dihapus oleh admin, serta dilihat oleh pengguna.
+**Menambahkan Paket dan Jenis Paket** <br />
+<img src="https://github.com/user-attachments/assets/a4f12d38-c9ae-4500-a066-d3e6dcad01fb" /> <br />
+**Halaman detail paket** <br />
+<img src="https://github.com/user-attachments/assets/57b18828-b302-4cab-90e8-c8147bf78fa9" /> <br />
+**Halaman list paket di beranda** <br />
+<img src="https://github.com/user-attachments/assets/b1b2f3a6-a02b-42d1-907f-f11077f5ef4c" /> <br />
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+•	Fitur Penerjemahan: Mengintegrasikan fungsi terjemahan bahasa pada website untuk menjangkau audiens yang lebih luas.
+**Bahasa Inggris**
+<img src="https://github.com/user-attachments/assets/cd2b07a3-6a89-427b-9f6d-28686fb8ac8c" /> <br />
+**Bahasa Indonesia**
+<img src="https://github.com/user-attachments/assets/ba41a263-63ea-486f-8380-5d3db0cf787f" /> <br />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+•	Pengiriman Pemesanan: Mengirimkan pemesanan paket oleh pengguna yang telah terdaftar dan login ke WhatsApp admin, memudahkan komunikasi dan konfirmasi.
+Proyek ini bertujuan untuk meningkatkan visibilitas Desa Alamendah dan memfasilitasi interaksi antara pengguna dan pengelola desa.
+**Form Booking Paket Travel** <br />
+<img src="https://github.com/user-attachments/assets/b03c5fa8-567e-411b-a32d-11e11b25147e" /><br />
+**Hasil pemesanan ke whatsapp admin**
+<img src="https://github.com/user-attachments/assets/d184218a-d138-4135-af24-6b56678e69fc" /> <br />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-# alamendah-website
