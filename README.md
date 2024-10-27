@@ -1,6 +1,6 @@
-# Fitur Promosi untuk Desa Alamendah
+# Website Desa Wisata Alamendah
 
-**Fitur Promosi untuk Desa Alamendah** adalah aplikasi web yang dibangun menggunakan **Laravel**, **Livewire**, **JavaScript**, dan **Google Apps Script**. Aplikasi ini dirancang untuk meningkatkan visibilitas Desa Alamendah dan memfasilitasi interaksi antara pengguna dan pengelola desa. Berikut adalah fitur-fitur utama dari aplikasi ini:
+**Website Desa Wisata Alamendah** adalah aplikasi web yang dibangun menggunakan **Laravel**, **Livewire**, **JavaScript**, dan **Google Apps Script**, serta dirancang untuk meningkatkan visibilitas Desa Alamendah dan memfasilitasi interaksi antara pengguna dan pengelola desa. Berikut adalah fitur-fitur utama dari aplikasi ini:
 
 ## Fitur-Fitur
 
